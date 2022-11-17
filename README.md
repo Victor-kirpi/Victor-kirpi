@@ -13,25 +13,18 @@ I am a novice specialist in Data Science <img src="https://media.giphy.com/media
 
 - :zap: In my free time, I solve problems on СodeWars, read science fiction literature, go for walks and take additional educational courses to improve my skills
 
+Сurrently my main projects in the learning process:
+  - [Telecom_final_project_Yandex](https://github.com/Victor-kirpi/Yandex.Praktikum/blob/main/15_ML_Telecom_final_project_Yandex/15_ML_Telecom_final_project_Yandex.ipynb)
+
+:page_with_curl: My certivicates:
+  - 
+
+
 - :mailbox: how to contact me quickly: 
-  - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-gavrilov-3542b8257/)
-  - [![Telegramm Badge](https://img.shields.io/badge/Telegramm-lightskyblue?style=for-the-badge&logo=telegramm&logoColor=white)](https://t.me/Victor_kirpi)
+  - Email: gavrilov--gavrilov@yandex.ru
+  - Telegram: @Victor_kirpi
 
 
-<!--
-**Victor-kirpi/Victor-kirpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
