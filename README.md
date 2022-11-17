@@ -1,3 +1,25 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/victor-gavrilov-3542b8257/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://t.me/Victor_kirpi">
+    <img src="https://img.shields.io/badge/Telegramm-lightskyblue?style=for-the-badge&logo=telegramm&logoColor=white" alt="Telegramm Badge"/>
+  <a href="https://www.facebook.com/victor.gavrilov.7">
+    <img src="https://img.shields.io/badge/Facebook-steelblue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+</div>
+
+<div id="counter_view" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Victor-kirpi&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div id="iseeyou" align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/NbeWwvjADhtPFJg7k6/giphy.gif" width="40"/>
+</div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="600" height="300"/>
 </div>
@@ -49,7 +71,7 @@ I am a novice specialist in Data Science <img src="https://media.giphy.com/media
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy"  alt="NumPy" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="ScikitLearn"  alt="ScikitLearn" width="40" height="40"/>&nbsp;
     <img src="https://user-images.githubusercontent.com/117514476/202476075-74cb91de-d3a6-46a9-8531-769fd8846650.png" title="MachineLearning"  alt="MachineLearning" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -61,25 +83,3 @@ I am a novice specialist in Data Science <img src="https://media.giphy.com/media
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Victor-kirpi&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-kirpi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/victor-gavrilov-3542b8257/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <a href="https://t.me/Victor_kirpi">
-    <img src="https://img.shields.io/badge/Telegramm-lightskyblue?style=for-the-badge&logo=telegramm&logoColor=white" alt="Telegramm Badge"/>
-  <a href="https://www.facebook.com/victor.gavrilov.7">
-    <img src="https://img.shields.io/badge/Facebook-steelblue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-</div>
-
-<div id="counter_view" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Victor-kirpi&style=flat-square&color=blue" alt=""/>
-</div>
-
-<div id="iseeyou" align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/NbeWwvjADhtPFJg7k6/giphy.gif" width="40"/>
-</div>
