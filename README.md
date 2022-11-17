@@ -1,4 +1,22 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+I am a novice specialist in Data Science <img src="https://media.giphy.com/media/c0Jwn0I22a3XHgPaft/giphy.gif" width="30"> from Russia.
+
+- :telescope: I’m trying to find myself in tablet reeling, analysis, computer vision and big data as a Data Scientist | ML engineer | Python Developer | Data analyst.
+ 
+- :seedling: Exploring of various applied methods of data processing and their application in real life.
+
+- :zap: In my free time, I solve problems on СodeWars, read science fiction literature, go for walks and take additional educational courses to improve my skills
+
+- :mailbox:How to reach me: 
+  - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-gavrilov-3542b8257/)
+  - @mail 
+
 
 <!--
 **Victor-kirpi/Victor-kirpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
