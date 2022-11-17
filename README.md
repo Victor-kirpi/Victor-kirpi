@@ -33,5 +33,6 @@ Here are some ideas to get you started:
 </div>
 
 <div id="iseeyou" align="center">
+  Hey there
   <img src="https://media.giphy.com/media/NbeWwvjADhtPFJg7k6/giphy.gif" width="60"/>
 </div>
