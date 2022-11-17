@@ -25,7 +25,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a novice specialist in Data Science <img src="https://media.giphy.com/media/c0Jwn0I22a3XHgPaft/giphy.gif" width="30"> from Russia.
+I am a novice specialist in Data Science from Russia.
 
 - :telescope: I’m trying to find myself in tablet reeling, analysis, computer vision and big data as a Data Scientist | ML engineer | Python Developer | Data analyst.
  
@@ -34,7 +34,7 @@ I am a novice specialist in Data Science <img src="https://media.giphy.com/media
 - :zap: In my free time, I solve problems on СodeWars, read science fiction literature, go for walks and take additional educational courses to improve my skills
 
 
-#### Сurrently my main projects in the learning process of machine learning:
+#### <img src="https://media.giphy.com/media/c0Jwn0I22a3XHgPaft/giphy.gif" width="30"> Сurrently my main projects in the learning process of machine learning:
   - [Telecom clients gonna leave](https://github.com/Victor-kirpi/Yandex.Praktikum/blob/main/15_ML_Telecom_final_project_Yandex/15_ML_Telecom_final_project_Yandex.ipynb)
   - [Computer Vision. Age defenition](https://github.com/Victor-kirpi/Yandex.Praktikum/blob/main/14_NN_Photo_analisys/14_NN_Photo_analisys.ipynb)
   - [Text lemmatization. Toxic comments](https://github.com/Victor-kirpi/Yandex.Praktikum/blob/main/13_AL_Tocix_comments/13_AL_Tocix_comments.ipynb)
