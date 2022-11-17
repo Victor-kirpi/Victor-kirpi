@@ -49,7 +49,7 @@ I am a novice specialist in Data Science from Russia.
 
 #### :mailbox: To contact me quickly: 
   - Email: gavrilov--gavrilov@yandex.ru
-  - Telegram: @Victor_kirpi
+  - Telegram: [@Victor_kirpi](https://t.me/Victor_kirpi)
 
 ---
 
