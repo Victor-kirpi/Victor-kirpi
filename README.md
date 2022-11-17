@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/NbeWwvjADhtPFJg7k6/giphy.gif" alt="Вид на горы">
-
 <h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/NbeWwvjADhtPFJg7k6/giphy.gif" width="40"/>
