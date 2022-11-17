@@ -27,9 +27,5 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/victor.gavrilov.7">
     <img src="https://img.shields.io/badge/Facebook-steelblue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
 </div>
-    
-<img src="https://komarev.com/ghpvc/?username=Victor-kirpi&style=flat-square&color=blue" alt="" align="center"/>
 
-<iseeyou align="center">
-  <img src="https://media.giphy.com/media/KmELrTPAgL3Qk/giphy.gif" width="100"/>
-</iseeyou>
+<img src="https://komarev.com/ghpvc/?username=Victor-kirpi&style=flat-square&color=blue" alt="" align="center"/>
