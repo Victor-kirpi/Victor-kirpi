@@ -1,5 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id="iseeyou" align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/NbeWwvjADhtPFJg7k6/giphy.gif" width="40"/>
 </div>
 
 <div id="badges" align="center">
@@ -15,10 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=Victor-kirpi&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id="iseeyou" align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/NbeWwvjADhtPFJg7k6/giphy.gif" width="40"/>
-</div>
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="600" height="300"/>
