@@ -1,7 +1,10 @@
 <div id="iseeyou" align="center">
+  
   Hey there
+  
   <img src="https://media.giphy.com/media/NbeWwvjADhtPFJg7k6/giphy.gif" width="40"/>
 </div>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/victor-gavrilov-3542b8257/">
