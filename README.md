@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 </div>
 
 <div id="iseeyou" align="center">
-  <img src="https://media.giphy.com/media/KmELrTPAgL3Qk/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/NbeWwvjADhtPFJg7k6/giphy.gif" width="30"/>
 </div>
