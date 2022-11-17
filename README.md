@@ -7,10 +7,6 @@
   <a href="https://www.facebook.com/victor.gavrilov.7">
     <img src="https://img.shields.io/badge/Facebook-steelblue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
 </div>
-
-<div id="counter_view" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Victor-kirpi&style=flat-square&color=blue" alt=""/>
-</div>
     
 <br>
     
@@ -19,6 +15,10 @@
   <img src="https://media.giphy.com/media/NbeWwvjADhtPFJg7k6/giphy.gif" width="40"/>
 </div>
 
+<div id="counter_view" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Victor-kirpi&style=flat-square&color=blue" alt=""/>
+</div>
+    
 ---
 
 <div align="center">
