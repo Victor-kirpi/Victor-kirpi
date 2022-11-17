@@ -76,4 +76,4 @@ I am a novice specialist in Data Science from Russia.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Victor-kirpi&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-kirpi&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-kirpi&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
