@@ -1,10 +1,3 @@
-<div id="iseeyou" align="center">
-  
-  Hey there
-  <img src="https://media.giphy.com/media/NbeWwvjADhtPFJg7k6/giphy.gif" width="40"/>
-</div>
-
-<br>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/victor-gavrilov-3542b8257/">
@@ -17,6 +10,13 @@
 
 <div id="counter_view" align="center">
   <img src="https://komarev.com/ghpvc/?username=Victor-kirpi&style=flat-square&color=blue" alt=""/>
+</div>
+    
+<br>
+    
+<div id="iseeyou" align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/NbeWwvjADhtPFJg7k6/giphy.gif" width="40"/>
 </div>
 
 ---
