@@ -1,3 +1,5 @@
+<img src="https://html5css.ru/images/html5cs_green.jpg" alt="html5css.ru">
+
 <h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/NbeWwvjADhtPFJg7k6/giphy.gif" width="40"/>
