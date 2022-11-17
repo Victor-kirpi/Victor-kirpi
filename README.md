@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey there
+  Hello there
   <img src="https://media.giphy.com/media/NbeWwvjADhtPFJg7k6/giphy.gif" width="40"/>
 </h1>
 
