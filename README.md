@@ -13,9 +13,9 @@ I am a novice specialist in Data Science <img src="https://media.giphy.com/media
 
 - :zap: In my free time, I solve problems on СodeWars, read science fiction literature, go for walks and take additional educational courses to improve my skills
 
-- :mailbox:How to reach me: 
+- :mailbox: how to contact me quickly: 
   - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-gavrilov-3542b8257/)
-  - @mail 
+  - [![Telegramm Badge](https://img.shields.io/badge/Telegramm-lightskyblue?style=for-the-badge&logo=telegramm&logoColor=white)](https://t.me/Victor_kirpi)
 
 
 <!--
