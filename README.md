@@ -10,10 +10,10 @@
     
 <br>
     
-<div id="iseeyou" align="center">
+<h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/NbeWwvjADhtPFJg7k6/giphy.gif" width="40"/>
-</div>
+</h1>
 
 <div id="counter_view" align="center">
   <img src="https://komarev.com/ghpvc/?username=Victor-kirpi&style=flat-square&color=blue" alt=""/>
