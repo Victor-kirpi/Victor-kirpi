@@ -47,7 +47,7 @@ I am a novice specialist in Data Science <img src="https://media.giphy.com/media
   - [Python course on Stepic](https://github.com/Victor-kirpi/Victor-kirpi/blob/main/Stepic_python_certificate_Gavrilov.pdf)
 
 
-#### :mailbox: how to contact me quickly: 
+#### :mailbox: To contact me quickly: 
   - Email: gavrilov--gavrilov@yandex.ru
   - Telegram: @Victor_kirpi
 
