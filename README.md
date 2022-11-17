@@ -21,7 +21,8 @@ I am a novice specialist in Data Science <img src="https://media.giphy.com/media
   - [Analisys of game's platforms and players](https://github.com/Victor-kirpi/Yandex.Praktikum/blob/main/05_Game_statistic_final_project/05_Game_statistic_final_project.ipynb)
 
 :page_with_curl: My certivicates:
-  - 
+  - [DataScience by Yandex.Practicum](https://github.com/Victor-kirpi/Victor-kirpi/blob/main/Yandex_Practicum_DS_certificate_Gavrilov.pdf)
+  - [Python course on Stepic](https://github.com/Victor-kirpi/Victor-kirpi/blob/main/Stepic_python_certificate_Gavrilov.pdf)
 
 
 - :mailbox: how to contact me quickly: 
