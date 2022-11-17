@@ -49,7 +49,7 @@ I am a novice specialist in Data Science <img src="https://media.giphy.com/media
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy"  alt="NumPy" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="ScikitLearn"  alt="ScikitLearn" width="40" height="40"/>&nbsp;
     <img src="https://user-images.githubusercontent.com/117514476/202476075-74cb91de-d3a6-46a9-8531-769fd8846650.png" title="MachineLearning"  alt="MachineLearning" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
 ---
