@@ -50,6 +50,9 @@ I am a novice specialist in Data Science from Russia.
 #### :mailbox: To contact me quickly: 
   - Email: gavrilov--gavrilov@yandex.ru
   - Telegram: [@Victor_kirpi](https://t.me/Victor_kirpi)
+    
+<div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="victor-gavrilov-3542b8257" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/victor-gavrilov-3542b8257?trk=profile-badge">Victor Gavrilov</a></div>
+
 
 ---
 
